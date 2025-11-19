@@ -1,4 +1,4 @@
-# Aida Ismayilova
+# Aida Is
 
 **Frontend Developer | Application Support Engineer | AI Researcher**
 
