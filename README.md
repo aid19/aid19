@@ -3,10 +3,10 @@
 **Frontend Developer | Application Support Engineer | AI Researcher**
 
 📍 Kraków, Poland  
-🌍 Multilingual: English | Russian | Turkish | Polish 
+🌍 Multilingual: English | Russian | Turkish | Polish
 🎓 Computer Science  
 
----
+---------------------
 
 ### 🚀 About Me
 
