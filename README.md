@@ -4,6 +4,7 @@
 
 📍 Kraków, Poland  
 🌍 Multilingual: English | Russian | Turkish | Polish
+
 🎓 Computer Science  
 
 ---------------------
