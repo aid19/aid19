@@ -1,6 +1,6 @@
 # Aida Is
 
-**Frontend Developer | Application Support Engineer | AI Researcher**
+Frontend Developer
 
 📍 Kraków, Poland  
 🌍 Multilingual: English | Russian | Turkish | Polish
